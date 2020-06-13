@@ -1,5 +1,7 @@
 # DNAText.jl 
-## Travis [![Build Status](https://travis-ci.com/harveydevereux/DNAText.jl.svg?branch=master)](https://travis-ci.com/harveydevereux/DNAText.jl) AppVeyor [![Build status](https://ci.appveyor.com/api/projects/status/r3x53cnn3n7352tf?svg=true)](https://ci.appveyor.com/project/harveydevereux/dnatext-jl)
+## Travis [![Build Status](https://travis-ci.com/harveydevereux/DNAText.jl.svg?branch=master)](https://travis-ci.com/harveydevereux/DNAText.jl) AppVeyor [![Build status](https://ci.appveyor.com/api/projects/status/r3x53cnn3n7352tf?svg=true)](https://ci.appveyor.com/project/harveydevereux/dnatext-jl) [![codecov](https://codecov.io/gh/harveydevereux/DNAText.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/harveydevereux/DNAText.jl)
+
+
 
 
 Convert text (including Julia code) to a "DNA strand", print nicely and execute DNA strands as Julia code! 
