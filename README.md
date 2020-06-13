@@ -1,5 +1,7 @@
 # DNAText.jl 
-## Travis [![Build Status](https://travis-ci.com/harveydevereux/DNAText.jl.svg?branch=master)](https://travis-ci.com/harveydevereux/DNAText.jl) AppVeyor [![Build status](https://ci.appveyor.com/api/projects/status/r3x53cnn3n7352tf?svg=true)](https://ci.appveyor.com/project/harveydevereux/dnatext-jl) [![codecov](https://codecov.io/gh/harveydevereux/DNAText.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/harveydevereux/DNAText.jl)
+| Linux | Windows | OSX | AppVeyor | CodeCov |
+|-------|---------|-----|----------|---------|
+| [![Travis CI](http://badges.herokuapp.com/travis/harveydevereux/DNAText.jl?style=flat-square&env=BADGE=linux&label=Linux&branch=master)](https://travis-ci.com/github/harveydevereux/DNAText.jl) | [![Travis CI](http://badges.herokuapp.com/travis/harveydevereux/DNAText.jl?style=flat-square&env=BADGE=windows&label=Windows&branch=master)](https://travis-ci.com/github/harveydevereux/DNAText.jl) | [![Travis CI](http://badges.herokuapp.com/travis/harveydevereux/DNAText.jl?style=flat-square&env=BADGE=osx&label=OSX&branch=master)](https://travis-ci.com/github/harveydevereux/DNAText.jl)|[![Build status](https://ci.appveyor.com/api/projects/status/r3x53cnn3n7352tf?svg=true)](https://ci.appveyor.com/project/harveydevereux/dnatext-jl) |[![codecov](https://codecov.io/gh/harveydevereux/DNAText.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/harveydevereux/DNAText.jl) |
 
 
 
