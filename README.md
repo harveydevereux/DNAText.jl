@@ -1,4 +1,7 @@
-# DNAText.jl [![Build Status](https://travis-ci.com/harveydevereux/DNAText.jl.svg?branch=master)](https://travis-ci.com/harveydevereux/DNAText.jl)
+# DNAText.jl 
+## Travis [![Build Status](https://travis-ci.com/harveydevereux/DNAText.jl.svg?branch=master)](https://travis-ci.com/harveydevereux/DNAText.jl) AppVeyor [![Build status](https://ci.appveyor.com/api/projects/status/r3x53cnn3n7352tf?svg=true)](https://ci.appveyor.com/project/harveydevereux/dnatext-jl)
+
+
 Convert text (including Julia code) to a "DNA strand", print nicely and execute DNA strands as Julia code! 
 
 Use this for fun e.g to obfuscate you Julia code as "DNA" but still be able to run it
